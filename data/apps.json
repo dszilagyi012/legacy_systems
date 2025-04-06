@@ -1,0 +1,18 @@
+[
+    {
+        "id": "1",
+        "name": "Cydia Tweaks Pack",
+        "short_description": "Gyűjtemény jailbreakelt iOS-re.",
+        "description": "Ez a csomag tartalmazza a legnépszerűbb tweakeket iOS 6 és 7 alatt.",
+        "image": "img/default.png",
+        "file": "https://example.com/downloads/cydia-tweaks.zip"
+    },
+    {
+        "id": "2",
+        "name": "RetroWin Tools",
+        "short_description": "Eszközök Windows XP-hez.",
+        "description": "Ezek a kisalkalmazások segítenek Windows XP optimalizálásában.",
+        "image": "img/default.png",
+        "file": "https://example.com/downloads/retrowin-tools.zip"
+    }
+]
